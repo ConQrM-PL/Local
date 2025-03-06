@@ -1,0 +1,182 @@
+[
+{
+  "directory": "C:/Users/gajko/Documents/cepepe/Projekt_N_Body_Problem_Karol_Gajek/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Project.dir/includes_CXX.rsp -g -std=gnu++20 -fopenmp -o CMakeFiles\\Project.dir\\main.cpp.obj -c C:\\Users\\gajko\\Documents\\cepepe\\Projekt_N_Body_Problem_Karol_Gajek\\ImGui_ImPlot_for_students-master\\main.cpp",
+  "file": "C:/Users/gajko/Documents/cepepe/Projekt_N_Body_Problem_Karol_Gajek/ImGui_ImPlot_for_students-master/main.cpp",
+  "output": "CMakeFiles/Project.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/gajko/Documents/cepepe/Projekt_N_Body_Problem_Karol_Gajek/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Project.dir/includes_CXX.rsp -g -std=gnu++20 -fopenmp -o CMakeFiles\\Project.dir\\ImGUI_custom_bundle\\imgui.cpp.obj -c C:\\Users\\gajko\\Documents\\cepepe\\Projekt_N_Body_Problem_Karol_Gajek\\ImGui_ImPlot_for_students-master\\ImGUI_custom_bundle\\imgui.cpp",
+  "file": "C:/Users/gajko/Documents/cepepe/Projekt_N_Body_Problem_Karol_Gajek/ImGui_ImPlot_for_students-master/ImGUI_custom_bundle/imgui.cpp",
+  "output": "CMakeFiles/Project.dir/ImGUI_custom_bundle/imgui.cpp.obj"
+},
+{
+  "directory": "C:/Users/gajko/Documents/cepepe/Projekt_N_Body_Problem_Karol_Gajek/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Project.dir/includes_CXX.rsp -g -std=gnu++20 -fopenmp -o CMakeFiles\\Project.dir\\ImGUI_custom_bundle\\imgui_draw.cpp.obj -c C:\\Users\\gajko\\Documents\\cepepe\\Projekt_N_Body_Problem_Karol_Gajek\\ImGui_ImPlot_for_students-master\\ImGUI_custom_bundle\\imgui_draw.cpp",
+  "file": "C:/Users/gajko/Documents/cepepe/Projekt_N_Body_Problem_Karol_Gajek/ImGui_ImPlot_for_students-master/ImGUI_custom_bundle/imgui_draw.cpp",
+  "output": "CMakeFiles/Project.dir/ImGUI_custom_bundle/imgui_draw.cpp.obj"
+},
+{
+  "directory": "C:/Users/gajko/Documents/cepepe/Projekt_N_Body_Problem_Karol_Gajek/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Project.dir/includes_CXX.rsp -g -std=gnu++20 -fopenmp -o CMakeFiles\\Project.dir\\ImGUI_custom_bundle\\imgui_widgets.cpp.obj -c C:\\Users\\gajko\\Documents\\cepepe\\Projekt_N_Body_Problem_Karol_Gajek\\ImGui_ImPlot_for_students-master\\ImGUI_custom_bundle\\imgui_widgets.cpp",
+  "file": "C:/Users/gajko/Documents/cepepe/Projekt_N_Body_Problem_Karol_Gajek/ImGui_ImPlot_for_students-master/ImGUI_custom_bundle/imgui_widgets.cpp",
+  "output": "CMakeFiles/Project.dir/ImGUI_custom_bundle/imgui_widgets.cpp.obj"
+},
+{
+  "directory": "C:/Users/gajko/Documents/cepepe/Projekt_N_Body_Problem_Karol_Gajek/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Project.dir/includes_CXX.rsp -g -std=gnu++20 -fopenmp -o CMakeFiles\\Project.dir\\ImGUI_custom_bundle\\imgui_tables.cpp.obj -c C:\\Users\\gajko\\Documents\\cepepe\\Projekt_N_Body_Problem_Karol_Gajek\\ImGui_ImPlot_for_students-master\\ImGUI_custom_bundle\\imgui_tables.cpp",
+  "file": "C:/Users/gajko/Documents/cepepe/Projekt_N_Body_Problem_Karol_Gajek/ImGui_ImPlot_for_students-master/ImGUI_custom_bundle/imgui_tables.cpp",
+  "output": "CMakeFiles/Project.dir/ImGUI_custom_bundle/imgui_tables.cpp.obj"
+},
+{
+  "directory": "C:/Users/gajko/Documents/cepepe/Projekt_N_Body_Problem_Karol_Gajek/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Project.dir/includes_CXX.rsp -g -std=gnu++20 -fopenmp -o CMakeFiles\\Project.dir\\ImGUI_custom_bundle\\implot.cpp.obj -c C:\\Users\\gajko\\Documents\\cepepe\\Projekt_N_Body_Problem_Karol_Gajek\\ImGui_ImPlot_for_students-master\\ImGUI_custom_bundle\\implot.cpp",
+  "file": "C:/Users/gajko/Documents/cepepe/Projekt_N_Body_Problem_Karol_Gajek/ImGui_ImPlot_for_students-master/ImGUI_custom_bundle/implot.cpp",
+  "output": "CMakeFiles/Project.dir/ImGUI_custom_bundle/implot.cpp.obj"
+},
+{
+  "directory": "C:/Users/gajko/Documents/cepepe/Projekt_N_Body_Problem_Karol_Gajek/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Project.dir/includes_CXX.rsp -g -std=gnu++20 -fopenmp -o CMakeFiles\\Project.dir\\ImGUI_custom_bundle\\implot_items.cpp.obj -c C:\\Users\\gajko\\Documents\\cepepe\\Projekt_N_Body_Problem_Karol_Gajek\\ImGui_ImPlot_for_students-master\\ImGUI_custom_bundle\\implot_items.cpp",
+  "file": "C:/Users/gajko/Documents/cepepe/Projekt_N_Body_Problem_Karol_Gajek/ImGui_ImPlot_for_students-master/ImGUI_custom_bundle/implot_items.cpp",
+  "output": "CMakeFiles/Project.dir/ImGUI_custom_bundle/implot_items.cpp.obj"
+},
+{
+  "directory": "C:/Users/gajko/Documents/cepepe/Projekt_N_Body_Problem_Karol_Gajek/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Project.dir/includes_CXX.rsp -g -std=gnu++20 -fopenmp -o CMakeFiles\\Project.dir\\ImGUI_custom_bundle\\backends\\imgui_impl_glfw.cpp.obj -c C:\\Users\\gajko\\Documents\\cepepe\\Projekt_N_Body_Problem_Karol_Gajek\\ImGui_ImPlot_for_students-master\\ImGUI_custom_bundle\\backends\\imgui_impl_glfw.cpp",
+  "file": "C:/Users/gajko/Documents/cepepe/Projekt_N_Body_Problem_Karol_Gajek/ImGui_ImPlot_for_students-master/ImGUI_custom_bundle/backends/imgui_impl_glfw.cpp",
+  "output": "CMakeFiles/Project.dir/ImGUI_custom_bundle/backends/imgui_impl_glfw.cpp.obj"
+},
+{
+  "directory": "C:/Users/gajko/Documents/cepepe/Projekt_N_Body_Problem_Karol_Gajek/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Project.dir/includes_CXX.rsp -g -std=gnu++20 -fopenmp -o CMakeFiles\\Project.dir\\ImGUI_custom_bundle\\backends\\imgui_impl_opengl3.cpp.obj -c C:\\Users\\gajko\\Documents\\cepepe\\Projekt_N_Body_Problem_Karol_Gajek\\ImGui_ImPlot_for_students-master\\ImGUI_custom_bundle\\backends\\imgui_impl_opengl3.cpp",
+  "file": "C:/Users/gajko/Documents/cepepe/Projekt_N_Body_Problem_Karol_Gajek/ImGui_ImPlot_for_students-master/ImGUI_custom_bundle/backends/imgui_impl_opengl3.cpp",
+  "output": "CMakeFiles/Project.dir/ImGUI_custom_bundle/backends/imgui_impl_opengl3.cpp.obj"
+},
+{
+  "directory": "C:/Users/gajko/Documents/cepepe/Projekt_N_Body_Problem_Karol_Gajek/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Project.dir/includes_CXX.rsp -g -std=gnu++20 -fopenmp -o CMakeFiles\\Project.dir\\ImGUI_custom_bundle\\context_setup\\context_setup.cpp.obj -c C:\\Users\\gajko\\Documents\\cepepe\\Projekt_N_Body_Problem_Karol_Gajek\\ImGui_ImPlot_for_students-master\\ImGUI_custom_bundle\\context_setup\\context_setup.cpp",
+  "file": "C:/Users/gajko/Documents/cepepe/Projekt_N_Body_Problem_Karol_Gajek/ImGui_ImPlot_for_students-master/ImGUI_custom_bundle/context_setup/context_setup.cpp",
+  "output": "CMakeFiles/Project.dir/ImGUI_custom_bundle/context_setup/context_setup.cpp.obj"
+},
+{
+  "directory": "C:/Users/gajko/Documents/cepepe/Projekt_N_Body_Problem_Karol_Gajek/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Project.dir/includes_CXX.rsp -g -std=gnu++20 -fopenmp -o CMakeFiles\\Project.dir\\body.cpp.obj -c C:\\Users\\gajko\\Documents\\cepepe\\Projekt_N_Body_Problem_Karol_Gajek\\ImGui_ImPlot_for_students-master\\body.cpp",
+  "file": "C:/Users/gajko/Documents/cepepe/Projekt_N_Body_Problem_Karol_Gajek/ImGui_ImPlot_for_students-master/body.cpp",
+  "output": "CMakeFiles/Project.dir/body.cpp.obj"
+},
+{
+  "directory": "C:/Users/gajko/Documents/cepepe/Projekt_N_Body_Problem_Karol_Gajek/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Project.dir/includes_CXX.rsp -g -std=gnu++20 -fopenmp -o CMakeFiles\\Project.dir\\systemClass.cpp.obj -c C:\\Users\\gajko\\Documents\\cepepe\\Projekt_N_Body_Problem_Karol_Gajek\\ImGui_ImPlot_for_students-master\\systemClass.cpp",
+  "file": "C:/Users/gajko/Documents/cepepe/Projekt_N_Body_Problem_Karol_Gajek/ImGui_ImPlot_for_students-master/systemClass.cpp",
+  "output": "CMakeFiles/Project.dir/systemClass.cpp.obj"
+},
+{
+  "directory": "C:/Users/gajko/Documents/cepepe/Projekt_N_Body_Problem_Karol_Gajek/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Project.dir/includes_CXX.rsp -g -std=gnu++20 -fopenmp -o CMakeFiles\\Project.dir\\Vec2D.cpp.obj -c C:\\Users\\gajko\\Documents\\cepepe\\Projekt_N_Body_Problem_Karol_Gajek\\ImGui_ImPlot_for_students-master\\Vec2D.cpp",
+  "file": "C:/Users/gajko/Documents/cepepe/Projekt_N_Body_Problem_Karol_Gajek/ImGui_ImPlot_for_students-master/Vec2D.cpp",
+  "output": "CMakeFiles/Project.dir/Vec2D.cpp.obj"
+},
+{
+  "directory": "C:/Users/gajko/Documents/cepepe/Projekt_N_Body_Problem_Karol_Gajek/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Project.dir/includes_CXX.rsp -g -std=gnu++20 -fopenmp -o CMakeFiles\\Project.dir\\randomgenerator.cpp.obj -c C:\\Users\\gajko\\Documents\\cepepe\\Projekt_N_Body_Problem_Karol_Gajek\\ImGui_ImPlot_for_students-master\\randomgenerator.cpp",
+  "file": "C:/Users/gajko/Documents/cepepe/Projekt_N_Body_Problem_Karol_Gajek/ImGui_ImPlot_for_students-master/randomgenerator.cpp",
+  "output": "CMakeFiles/Project.dir/randomgenerator.cpp.obj"
+},
+{
+  "directory": "C:/Users/gajko/Documents/cepepe/Projekt_N_Body_Problem_Karol_Gajek/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Project.dir/includes_CXX.rsp -g -std=gnu++20 -fopenmp -o CMakeFiles\\Project.dir\\history.cpp.obj -c C:\\Users\\gajko\\Documents\\cepepe\\Projekt_N_Body_Problem_Karol_Gajek\\ImGui_ImPlot_for_students-master\\history.cpp",
+  "file": "C:/Users/gajko/Documents/cepepe/Projekt_N_Body_Problem_Karol_Gajek/ImGui_ImPlot_for_students-master/history.cpp",
+  "output": "CMakeFiles/Project.dir/history.cpp.obj"
+},
+{
+  "directory": "C:/Users/gajko/Documents/cepepe/Projekt_N_Body_Problem_Karol_Gajek/build/GLFW/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=gnu99 -Wall -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\context.c.obj -c C:\\Users\\gajko\\Documents\\cepepe\\Projekt_N_Body_Problem_Karol_Gajek\\ImGui_ImPlot_for_students-master\\GLFW\\src\\context.c",
+  "file": "C:/Users/gajko/Documents/cepepe/Projekt_N_Body_Problem_Karol_Gajek/ImGui_ImPlot_for_students-master/GLFW/src/context.c",
+  "output": "GLFW/src/CMakeFiles/glfw.dir/context.c.obj"
+},
+{
+  "directory": "C:/Users/gajko/Documents/cepepe/Projekt_N_Body_Problem_Karol_Gajek/build/GLFW/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=gnu99 -Wall -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\init.c.obj -c C:\\Users\\gajko\\Documents\\cepepe\\Projekt_N_Body_Problem_Karol_Gajek\\ImGui_ImPlot_for_students-master\\GLFW\\src\\init.c",
+  "file": "C:/Users/gajko/Documents/cepepe/Projekt_N_Body_Problem_Karol_Gajek/ImGui_ImPlot_for_students-master/GLFW/src/init.c",
+  "output": "GLFW/src/CMakeFiles/glfw.dir/init.c.obj"
+},
+{
+  "directory": "C:/Users/gajko/Documents/cepepe/Projekt_N_Body_Problem_Karol_Gajek/build/GLFW/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=gnu99 -Wall -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\input.c.obj -c C:\\Users\\gajko\\Documents\\cepepe\\Projekt_N_Body_Problem_Karol_Gajek\\ImGui_ImPlot_for_students-master\\GLFW\\src\\input.c",
+  "file": "C:/Users/gajko/Documents/cepepe/Projekt_N_Body_Problem_Karol_Gajek/ImGui_ImPlot_for_students-master/GLFW/src/input.c",
+  "output": "GLFW/src/CMakeFiles/glfw.dir/input.c.obj"
+},
+{
+  "directory": "C:/Users/gajko/Documents/cepepe/Projekt_N_Body_Problem_Karol_Gajek/build/GLFW/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=gnu99 -Wall -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\monitor.c.obj -c C:\\Users\\gajko\\Documents\\cepepe\\Projekt_N_Body_Problem_Karol_Gajek\\ImGui_ImPlot_for_students-master\\GLFW\\src\\monitor.c",
+  "file": "C:/Users/gajko/Documents/cepepe/Projekt_N_Body_Problem_Karol_Gajek/ImGui_ImPlot_for_students-master/GLFW/src/monitor.c",
+  "output": "GLFW/src/CMakeFiles/glfw.dir/monitor.c.obj"
+},
+{
+  "directory": "C:/Users/gajko/Documents/cepepe/Projekt_N_Body_Problem_Karol_Gajek/build/GLFW/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=gnu99 -Wall -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\vulkan.c.obj -c C:\\Users\\gajko\\Documents\\cepepe\\Projekt_N_Body_Problem_Karol_Gajek\\ImGui_ImPlot_for_students-master\\GLFW\\src\\vulkan.c",
+  "file": "C:/Users/gajko/Documents/cepepe/Projekt_N_Body_Problem_Karol_Gajek/ImGui_ImPlot_for_students-master/GLFW/src/vulkan.c",
+  "output": "GLFW/src/CMakeFiles/glfw.dir/vulkan.c.obj"
+},
+{
+  "directory": "C:/Users/gajko/Documents/cepepe/Projekt_N_Body_Problem_Karol_Gajek/build/GLFW/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=gnu99 -Wall -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\window.c.obj -c C:\\Users\\gajko\\Documents\\cepepe\\Projekt_N_Body_Problem_Karol_Gajek\\ImGui_ImPlot_for_students-master\\GLFW\\src\\window.c",
+  "file": "C:/Users/gajko/Documents/cepepe/Projekt_N_Body_Problem_Karol_Gajek/ImGui_ImPlot_for_students-master/GLFW/src/window.c",
+  "output": "GLFW/src/CMakeFiles/glfw.dir/window.c.obj"
+},
+{
+  "directory": "C:/Users/gajko/Documents/cepepe/Projekt_N_Body_Problem_Karol_Gajek/build/GLFW/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=gnu99 -Wall -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\win32_init.c.obj -c C:\\Users\\gajko\\Documents\\cepepe\\Projekt_N_Body_Problem_Karol_Gajek\\ImGui_ImPlot_for_students-master\\GLFW\\src\\win32_init.c",
+  "file": "C:/Users/gajko/Documents/cepepe/Projekt_N_Body_Problem_Karol_Gajek/ImGui_ImPlot_for_students-master/GLFW/src/win32_init.c",
+  "output": "GLFW/src/CMakeFiles/glfw.dir/win32_init.c.obj"
+},
+{
+  "directory": "C:/Users/gajko/Documents/cepepe/Projekt_N_Body_Problem_Karol_Gajek/build/GLFW/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=gnu99 -Wall -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\win32_joystick.c.obj -c C:\\Users\\gajko\\Documents\\cepepe\\Projekt_N_Body_Problem_Karol_Gajek\\ImGui_ImPlot_for_students-master\\GLFW\\src\\win32_joystick.c",
+  "file": "C:/Users/gajko/Documents/cepepe/Projekt_N_Body_Problem_Karol_Gajek/ImGui_ImPlot_for_students-master/GLFW/src/win32_joystick.c",
+  "output": "GLFW/src/CMakeFiles/glfw.dir/win32_joystick.c.obj"
+},
+{
+  "directory": "C:/Users/gajko/Documents/cepepe/Projekt_N_Body_Problem_Karol_Gajek/build/GLFW/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=gnu99 -Wall -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\win32_monitor.c.obj -c C:\\Users\\gajko\\Documents\\cepepe\\Projekt_N_Body_Problem_Karol_Gajek\\ImGui_ImPlot_for_students-master\\GLFW\\src\\win32_monitor.c",
+  "file": "C:/Users/gajko/Documents/cepepe/Projekt_N_Body_Problem_Karol_Gajek/ImGui_ImPlot_for_students-master/GLFW/src/win32_monitor.c",
+  "output": "GLFW/src/CMakeFiles/glfw.dir/win32_monitor.c.obj"
+},
+{
+  "directory": "C:/Users/gajko/Documents/cepepe/Projekt_N_Body_Problem_Karol_Gajek/build/GLFW/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=gnu99 -Wall -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\win32_time.c.obj -c C:\\Users\\gajko\\Documents\\cepepe\\Projekt_N_Body_Problem_Karol_Gajek\\ImGui_ImPlot_for_students-master\\GLFW\\src\\win32_time.c",
+  "file": "C:/Users/gajko/Documents/cepepe/Projekt_N_Body_Problem_Karol_Gajek/ImGui_ImPlot_for_students-master/GLFW/src/win32_time.c",
+  "output": "GLFW/src/CMakeFiles/glfw.dir/win32_time.c.obj"
+},
+{
+  "directory": "C:/Users/gajko/Documents/cepepe/Projekt_N_Body_Problem_Karol_Gajek/build/GLFW/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=gnu99 -Wall -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\win32_thread.c.obj -c C:\\Users\\gajko\\Documents\\cepepe\\Projekt_N_Body_Problem_Karol_Gajek\\ImGui_ImPlot_for_students-master\\GLFW\\src\\win32_thread.c",
+  "file": "C:/Users/gajko/Documents/cepepe/Projekt_N_Body_Problem_Karol_Gajek/ImGui_ImPlot_for_students-master/GLFW/src/win32_thread.c",
+  "output": "GLFW/src/CMakeFiles/glfw.dir/win32_thread.c.obj"
+},
+{
+  "directory": "C:/Users/gajko/Documents/cepepe/Projekt_N_Body_Problem_Karol_Gajek/build/GLFW/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=gnu99 -Wall -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\win32_window.c.obj -c C:\\Users\\gajko\\Documents\\cepepe\\Projekt_N_Body_Problem_Karol_Gajek\\ImGui_ImPlot_for_students-master\\GLFW\\src\\win32_window.c",
+  "file": "C:/Users/gajko/Documents/cepepe/Projekt_N_Body_Problem_Karol_Gajek/ImGui_ImPlot_for_students-master/GLFW/src/win32_window.c",
+  "output": "GLFW/src/CMakeFiles/glfw.dir/win32_window.c.obj"
+},
+{
+  "directory": "C:/Users/gajko/Documents/cepepe/Projekt_N_Body_Problem_Karol_Gajek/build/GLFW/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=gnu99 -Wall -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\wgl_context.c.obj -c C:\\Users\\gajko\\Documents\\cepepe\\Projekt_N_Body_Problem_Karol_Gajek\\ImGui_ImPlot_for_students-master\\GLFW\\src\\wgl_context.c",
+  "file": "C:/Users/gajko/Documents/cepepe/Projekt_N_Body_Problem_Karol_Gajek/ImGui_ImPlot_for_students-master/GLFW/src/wgl_context.c",
+  "output": "GLFW/src/CMakeFiles/glfw.dir/wgl_context.c.obj"
+},
+{
+  "directory": "C:/Users/gajko/Documents/cepepe/Projekt_N_Body_Problem_Karol_Gajek/build/GLFW/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=gnu99 -Wall -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\egl_context.c.obj -c C:\\Users\\gajko\\Documents\\cepepe\\Projekt_N_Body_Problem_Karol_Gajek\\ImGui_ImPlot_for_students-master\\GLFW\\src\\egl_context.c",
+  "file": "C:/Users/gajko/Documents/cepepe/Projekt_N_Body_Problem_Karol_Gajek/ImGui_ImPlot_for_students-master/GLFW/src/egl_context.c",
+  "output": "GLFW/src/CMakeFiles/glfw.dir/egl_context.c.obj"
+},
+{
+  "directory": "C:/Users/gajko/Documents/cepepe/Projekt_N_Body_Problem_Karol_Gajek/build/GLFW/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -std=gnu99 -Wall -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\osmesa_context.c.obj -c C:\\Users\\gajko\\Documents\\cepepe\\Projekt_N_Body_Problem_Karol_Gajek\\ImGui_ImPlot_for_students-master\\GLFW\\src\\osmesa_context.c",
+  "file": "C:/Users/gajko/Documents/cepepe/Projekt_N_Body_Problem_Karol_Gajek/ImGui_ImPlot_for_students-master/GLFW/src/osmesa_context.c",
+  "output": "GLFW/src/CMakeFiles/glfw.dir/osmesa_context.c.obj"
+}
+]

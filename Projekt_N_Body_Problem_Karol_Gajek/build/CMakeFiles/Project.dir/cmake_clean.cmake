@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/Project.dir/ImGUI_custom_bundle/backends/imgui_impl_glfw.cpp.obj"
+  "CMakeFiles/Project.dir/ImGUI_custom_bundle/backends/imgui_impl_glfw.cpp.obj.d"
+  "CMakeFiles/Project.dir/ImGUI_custom_bundle/backends/imgui_impl_opengl3.cpp.obj"
+  "CMakeFiles/Project.dir/ImGUI_custom_bundle/backends/imgui_impl_opengl3.cpp.obj.d"
+  "CMakeFiles/Project.dir/ImGUI_custom_bundle/context_setup/context_setup.cpp.obj"
+  "CMakeFiles/Project.dir/ImGUI_custom_bundle/context_setup/context_setup.cpp.obj.d"
+  "CMakeFiles/Project.dir/ImGUI_custom_bundle/imgui.cpp.obj"
+  "CMakeFiles/Project.dir/ImGUI_custom_bundle/imgui.cpp.obj.d"
+  "CMakeFiles/Project.dir/ImGUI_custom_bundle/imgui_draw.cpp.obj"
+  "CMakeFiles/Project.dir/ImGUI_custom_bundle/imgui_draw.cpp.obj.d"
+  "CMakeFiles/Project.dir/ImGUI_custom_bundle/imgui_tables.cpp.obj"
+  "CMakeFiles/Project.dir/ImGUI_custom_bundle/imgui_tables.cpp.obj.d"
+  "CMakeFiles/Project.dir/ImGUI_custom_bundle/imgui_widgets.cpp.obj"
+  "CMakeFiles/Project.dir/ImGUI_custom_bundle/imgui_widgets.cpp.obj.d"
+  "CMakeFiles/Project.dir/ImGUI_custom_bundle/implot.cpp.obj"
+  "CMakeFiles/Project.dir/ImGUI_custom_bundle/implot.cpp.obj.d"
+  "CMakeFiles/Project.dir/ImGUI_custom_bundle/implot_items.cpp.obj"
+  "CMakeFiles/Project.dir/ImGUI_custom_bundle/implot_items.cpp.obj.d"
+  "CMakeFiles/Project.dir/Vec2D.cpp.obj"
+  "CMakeFiles/Project.dir/Vec2D.cpp.obj.d"
+  "CMakeFiles/Project.dir/body.cpp.obj"
+  "CMakeFiles/Project.dir/body.cpp.obj.d"
+  "CMakeFiles/Project.dir/history.cpp.obj"
+  "CMakeFiles/Project.dir/history.cpp.obj.d"
+  "CMakeFiles/Project.dir/main.cpp.obj"
+  "CMakeFiles/Project.dir/main.cpp.obj.d"
+  "CMakeFiles/Project.dir/randomgenerator.cpp.obj"
+  "CMakeFiles/Project.dir/randomgenerator.cpp.obj.d"
+  "CMakeFiles/Project.dir/systemClass.cpp.obj"
+  "CMakeFiles/Project.dir/systemClass.cpp.obj.d"
+  "Project.exe"
+  "Project.exe.manifest"
+  "Project.pdb"
+  "libProject.dll.a"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/Project.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
