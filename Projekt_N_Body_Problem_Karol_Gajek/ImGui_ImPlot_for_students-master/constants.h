@@ -11,8 +11,8 @@
 #define MAX_MASS 1e4
 
 // maksymalna prędkość początkowa wygenerowanego ciała
-//(to znaczy prędość v = (vx, vy), np. dla wartości 10, vx oraz vy mają wrtości z przediału [-10, 10])
-#define MAX_INIT_VELOCITY 10
+//(to znaczy prędkość v = (vx, vy), np. dla wartości 10, vx oraz vy mają wrtości z przediału [-10, 10])
+#define MAX_INIT_VELOCITY 100
 
 // maksymalna wartość początkowej pozycji wygenerowanego ciała
 // (podobnie jak dla prędkości)
