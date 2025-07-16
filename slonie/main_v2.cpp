@@ -3,7 +3,7 @@ Program napisany na potrzeby procesu rekrutacyjnego dla firmy ImpiCode
 
 Kompilacja normalna, np. g++ main_v2.cpp -o slonie.exe
 
-wersja 2.0
+wersja 2.1
 */
 #include<iostream>
 #include<vector>
@@ -31,7 +31,7 @@ T Minimum (T a, T b){
 vector<slon> Wczytaj_dane_wejsciowe(){
     vector<slon> lista_sloni;
     slon tymczasowy_slon;
-    int N, wejscie, pozycja;
+    int N, wejscie;
     cin >> N;
     for (size_t i = 0; i < N; i++){
         cin >> wejscie;
